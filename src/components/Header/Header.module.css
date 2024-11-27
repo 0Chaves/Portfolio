@@ -21,6 +21,6 @@
     font-size: 1.125rem ;
 }
 
-.header a:hover{
+.header nav a:hover{
     color: var(--red);
 }
