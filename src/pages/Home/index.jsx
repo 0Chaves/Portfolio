@@ -8,7 +8,7 @@ export default function Home() {
                 <p>
                     Olá, sou <br />
                     <span>Daniel Chaves</span><br />
-                    Dev Full Stack
+                    Dev Back End
                 </p>
                 <Link to="/sobre" className={`${styles.btn} ${styles.btn_red}`}>
                     Sobre mim
